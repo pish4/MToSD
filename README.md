@@ -5,6 +5,6 @@
 
 ### Team members 
 - Andriy Skolotianyi
-- Yaroslav Golub
+- Yaroslav Holub
 - Sofiya Padus
 - Taras Panychok
